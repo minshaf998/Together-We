@@ -17,7 +17,7 @@ Install the below tools/packages
 ### Setup Instructions
 
 #### System setup
-1. Clone the repo with `https://github.com/minshaf998/Charity-Donation.git` command
+1. Clone the repo with `https://github.com/minshaf998/Together-We.git` command
 2. Switch to the project's root directory in terminal
 3. Create a file config.ts in root directory and the details like below
 ```
